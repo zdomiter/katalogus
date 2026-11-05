@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e1edfa"/></radialGradient>
+<radialGradient id="sh" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#000" stop-opacity=".28"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<linearGradient id="gloss" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".3" stop-color="#fff" stop-opacity=".45"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="j1" x1="0" x2="1"><stop offset="0" stop-color="#124887"/><stop offset=".35" stop-color="#498bda"/><stop offset=".55" stop-color="#1c6fd1"/><stop offset="1" stop-color="#0f3d72"/></linearGradient><linearGradient id="j2" x1="0" x2="1"><stop offset="0" stop-color="#0e396c"/><stop offset=".35" stop-color="#4479b8"/><stop offset=".55" stop-color="#1658a7"/><stop offset="1" stop-color="#0c305b"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#bg)"/>
+<ellipse cx="200" cy="350" rx="130" ry="16" fill="url(#sh)"/>
+<path d="M120 345 V150 Q120 118 150 112 H205 V96 H255 V112 Q282 118 282 150 V345 Q282 352 272 352 H130 Q120 352 120 345Z" fill="url(#j1)"/>
+<rect x="236" y="132" width="26" height="62" rx="13" fill="#fff" opacity=".85"/><rect x="236" y="132" width="26" height="62" rx="13" fill="none" stroke="#000" stroke-opacity=".18" stroke-width="3"/>
+<rect x="198" y="74" width="64" height="34" rx="6" fill="url(#j2)"/>
+<path d="M204 82 H256 M204 92 H256 M204 100 H256" stroke="#000" stroke-opacity=".15"/>
+<rect x="138" y="218" width="126" height="118" rx="12" fill="#fff"/><path d="M138 300.6 q31.5 -29.5 63.0 0 t63.0 0 V324 q0 12 -12 12 H150 q-12 0 -12 -12Z" fill="#1c6fd1" opacity=".85"/><path d="M181.0 246.84000000000003 q10 13.0 10 19.0 a10 10 0 0 1 -20 0 q0 -6.0 10 -19.0Z" fill="#1c6fd1"/><path d="M201.0 238.84000000000003 q15 19.5 15 28.5 a15 15 0 0 1 -30 0 q0 -9.0 15 -28.5Z" fill="#1c6fd1"/><path d="M221.0 246.84000000000003 q10 13.0 10 19.0 a10 10 0 0 1 -20 0 q0 -6.0 10 -19.0Z" fill="#1c6fd1"/>
+<path d="M120 345 V150 Q120 118 150 112 H170 V352 H130 Q120 352 120 345Z" fill="url(#gloss)" opacity=".5"/>
+<text x="388" y="392" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#000" fill-opacity=".28">illusztráció</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e4f2f9"/></radialGradient>
+<radialGradient id="sh" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#000" stop-opacity=".28"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<linearGradient id="gloss" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".3" stop-color="#fff" stop-opacity=".45"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sf" x1="0" x2="1"><stop offset="0" stop-color="#508096"/><stop offset=".35" stop-color="#96d1ec"/><stop offset=".55" stop-color="#7cc6e8"/><stop offset="1" stop-color="#446c7f"/></linearGradient><linearGradient id="sc" x1="0" x2="1"><stop offset="0" stop-color="#65899a"/><stop offset=".35" stop-color="#afdcf0"/><stop offset=".55" stop-color="#9cd4ed"/><stop offset="1" stop-color="#557482"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#bg)"/>
+<ellipse cx="200" cy="350" rx="130" ry="16" fill="url(#sh)"/>
+<path d="M150 125 Q118 140 118 190 Q108 240 124 290 Q132 350 200 350 Q268 350 276 290 Q292 240 282 190 Q282 140 250 125Z" fill="url(#sf)"/>
+<rect x="160" y="70" width="80" height="58" rx="14" fill="url(#sc)"/>
+<path d="M164 84 H236" stroke="#fff" stroke-opacity=".5" stroke-width="3"/>
+<rect x="140" y="185" width="120" height="115" rx="12" fill="#fff"/><path d="M140 265.5 q30.0 -28.75 60.0 0 t60.0 0 V288 q0 12 -12 12 H152 q-12 0 -12 -12Z" fill="#4b5fc0" opacity=".85"/><ellipse cx="200.0" cy="214.7" rx="8" ry="15" fill="#4b5fc0" opacity=".85" transform="rotate(0 200.0 228.7)"/><ellipse cx="200.0" cy="214.7" rx="8" ry="15" fill="#4b5fc0" opacity=".85" transform="rotate(60 200.0 228.7)"/><ellipse cx="200.0" cy="214.7" rx="8" ry="15" fill="#4b5fc0" opacity=".85" transform="rotate(120 200.0 228.7)"/><ellipse cx="200.0" cy="214.7" rx="8" ry="15" fill="#4b5fc0" opacity=".85" transform="rotate(180 200.0 228.7)"/><ellipse cx="200.0" cy="214.7" rx="8" ry="15" fill="#4b5fc0" opacity=".85" transform="rotate(240 200.0 228.7)"/><ellipse cx="200.0" cy="214.7" rx="8" ry="15" fill="#4b5fc0" opacity=".85" transform="rotate(300 200.0 228.7)"/><circle cx="200.0" cy="228.7" r="7" fill="#ffd34d"/>
+<path d="M150 125 Q118 140 118 190 Q108 240 124 290 Q132 350 170 350 V125Z" fill="url(#gloss)" opacity=".5"/>
+<text x="388" y="392" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#000" fill-opacity=".28">illusztráció</text>
+</svg>
